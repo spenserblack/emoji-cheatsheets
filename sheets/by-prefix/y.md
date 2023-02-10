@@ -1,0 +1,5 @@
+| Name | Image | Name | Image | Name | Image | Name | Image |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| `:yarn:` | ![yarn](https://github.githubassets.com/images/icons/emoji/unicode/1f9f6.png?v8) | `:yawning_face:` | ![yawning_face](https://github.githubassets.com/images/icons/emoji/unicode/1f971.png?v8) | `:yellow_circle:` | ![yellow_circle](https://github.githubassets.com/images/icons/emoji/unicode/1f7e1.png?v8) | `:yellow_heart:` | ![yellow_heart](https://github.githubassets.com/images/icons/emoji/unicode/1f49b.png?v8) |
+| `:yellow_square:` | ![yellow_square](https://github.githubassets.com/images/icons/emoji/unicode/1f7e8.png?v8) | `:yemen:` | ![yemen](https://github.githubassets.com/images/icons/emoji/unicode/1f1fe-1f1ea.png?v8) | `:yen:` | ![yen](https://github.githubassets.com/images/icons/emoji/unicode/1f4b4.png?v8) | `:yin_yang:` | ![yin_yang](https://github.githubassets.com/images/icons/emoji/unicode/262f.png?v8) |
+| `:yo_yo:` | ![yo_yo](https://github.githubassets.com/images/icons/emoji/unicode/1fa80.png?v8) | `:yum:` | ![yum](https://github.githubassets.com/images/icons/emoji/unicode/1f60b.png?v8) |  |  |  |  |

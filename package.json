@@ -1,0 +1,30 @@
+{
+  "name": "emoji-cheatsheets",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Generate GitHub emoji cheatsheets",
+  "main": "scripts/generate.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenserblack/emoji-cheatsheets.git"
+  },
+  "keywords": [
+    "github",
+    "github-emoji"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spenserblack/emoji-cheatsheets/issues"
+  },
+  "homepage": "https://github.com/spenserblack/emoji-cheatsheets#readme",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  },
+  "dependencies": {
+    "octokit": "^2.0.14"
+  }
+}
