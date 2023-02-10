@@ -19,7 +19,7 @@ exports.write = async function write(path, items) {
     return '| ' + row.map((item) => {
       if (!item) return ' | ';
       const { name, url } = item;
-      return `\`:${name}:\` | ![${name}](${url})`;
+      return `\`:${name}:\` | <img src="${url}" alt="${name}" width="24" height="24" />`;
     }).join(' | ') + ' |';
   }).join('\n');
 
