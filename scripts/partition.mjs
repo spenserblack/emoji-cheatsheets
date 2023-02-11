@@ -12,7 +12,9 @@ export function partition(arr) {
   }
   const last = result[result.length - 1];
   if (last.length < partitionSize) {
-    result[result.length - 1] = last.concat(Array(partitionSize - last.length).fill(null));
+    result[result.length - 1] = last.concat(
+      Array(partitionSize - last.length).fill(null),
+    );
   }
   return result;
 }
